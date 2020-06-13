@@ -4,6 +4,9 @@ Use Python and Open CV to recognize multi face and show the name
 # *To identify a particular person's face, the system must be trained first
 
 #How to Run
+	** Very important!
+	First go to trainer folder and extract trainer.Zip 
+	
 	Run face_dataset.py and let the system to train
 
 	Make sure to modify face_id parameter, so new profile will created.
