@@ -1,5 +1,5 @@
 # Realtime-Face-Recognition
-Use Python and Open CV to recognize multi face and show the name
+a Python Project to recognize multi faces on video or live camera and show the names using OpenCV and haar-cascade-frontal-face.
 
 # *To identify a particular person's face, the system must be trained first
 
